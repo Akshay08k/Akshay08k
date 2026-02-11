@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👯 **I’m looking to collaborate on:** <br>Fullstack projects<br><br>🌱 **I’m currently learning:** <br>Next Js<br><br>💬 **Ask me about:** <br>JavaScript, React, Node.js, and any general software development questions.<br><br>
+👯 **I’m looking to collaborate on:** <br>Fullstack projects<br><br>🌱 **I’m currently learning:** <br>Machile Learning , Low Level Coding<br><br>💬 **Ask me about:** <br>JavaScript, React, Node.js, and any general software development questions.<br><br>
 
 ## 🌐 Socials:
 
